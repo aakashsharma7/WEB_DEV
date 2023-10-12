@@ -1,0 +1,8 @@
+li h4{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#blog-title :hover{
+    color: orange;
+}
